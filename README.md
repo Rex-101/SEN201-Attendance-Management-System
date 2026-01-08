@@ -30,5 +30,7 @@ The application is deployed via GitHub and runs on a local machine.
 ### 6. Maintenance
 Future enhancements may include persistent storage and GUI support.
 
+The system was tested using an online Python compiler to verify correct functionality
+
 ## Author
 Rex
